@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FireInfo</string>
+    <string name="fire_text">ফায়ার সাভির্স ও সিভিল ডিফেন্স</string>
+    <string name="button_text">Start</string>
+    <string name="dev_text">Abdur Rahman</string>
+    <string name="pow_text">Powered by </string>
+
+    <string name="list_text">All list </string>
+
+</resources>
