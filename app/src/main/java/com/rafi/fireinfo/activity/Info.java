@@ -17,6 +17,7 @@ public class Info extends AppCompatActivity {
 
     private static final String TAG = "Info";
 
+
     //vars
     private ArrayList<String> mNames = new ArrayList<>();
     private ArrayList<String> mDegs = new ArrayList<>();
