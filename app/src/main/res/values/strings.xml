@@ -6,5 +6,8 @@
     <string name="pow_text">Powered by </string>
 
     <string name="list_text">All list </string>
+    <string name="organizer_text">Organized by</string>
+    <string name="organizer_name_1_text">মোঃ আজিজুর রহমান</string>
+
 
 </resources>

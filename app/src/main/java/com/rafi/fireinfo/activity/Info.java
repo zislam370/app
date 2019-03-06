@@ -1,10 +1,12 @@
 package com.rafi.fireinfo.activity;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
+import android.view.View;
 
 import com.rafi.fireinfo.R;
 import com.rafi.fireinfo.adapter.InfoAdapter;
@@ -97,5 +99,14 @@ public class Info extends AppCompatActivity {
         InfoAdapter adapter = new InfoAdapter(this, mNames, mImageUrls,mDegs,mFaNames,mVills,mPosts,mPHones);
         recyclerView.setAdapter(adapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
+    }
+
+    public void organizedBtn(View v){
+
+        Intent dashBord = new Intent(this, Organizer.class);
+        startActivity(dashBord);
+
+
+
     }
 }
