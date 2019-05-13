@@ -8,6 +8,7 @@
     <string name="list_text">All list </string>
     <string name="organizer_text">Organized by</string>
     <string name="organizer_name_1_text">মোঃ আজিজুর রহমান</string>
-
-
+    <string name="user_name_hint">User Name or Email</string>
+    <string name="user_password_hint">Password</string>
+    <string name="login_btn">Sign In</string>
 </resources>
