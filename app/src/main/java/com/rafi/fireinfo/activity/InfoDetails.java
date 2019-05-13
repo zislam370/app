@@ -24,7 +24,7 @@ public class InfoDetails extends AppCompatActivity {
     private void getIncomingIntent(){
         Log.d("", "getIncomingIntent: checking for incoming intents.");
 
-        if(getIntent().hasExtra("image_url") && getIntent().hasExtra("image_name") && getIntent().hasExtra("image_deg")&& getIntent().hasExtra("image_phone")&& getIntent().hasExtra("image_vill")&& getIntent().hasExtra("image_post")){
+        if(getIntent().hasExtra("image_url") && getIntent().hasExtra("image_name") && getIntent().hasExtra("image_deg")&& getIntent().hasExtra("image_phone")&& getIntent().hasExtra("image_vill")&& getIntent().hasExtra("image_post")&& getIntent().hasExtra("image_chest")){
             Log.d("tag", "getIncomingIntent: found intent extras.");
 
             int imageUrl = getIntent().getIntExtra("image_url",-1);
@@ -36,17 +36,27 @@ public class InfoDetails extends AppCompatActivity {
             String imagePhone = getIntent().getStringExtra("image_phone");
             String imageVill = getIntent().getStringExtra("image_vill");
             String imagePost =getIntent().getStringExtra("image_post");
+            // self
+            String imageChest =getIntent().getStringExtra("image_chest");
+            String imageThana =getIntent().getStringExtra("image_Thana");
+            String imageZella =getIntent().getStringExtra("image_Zella");
+            String imageEmail =getIntent().getStringExtra("image_Email");
+            String imageBlood =getIntent().getStringExtra("image_Blood");
 
 
 
-            setImage(imageUrl, imageName,imageFaname,imageDeg,imagePhone,imageVill,imagePost);
+            setImage(imageUrl, imageName,imageFaname,imageDeg,imagePhone,imageVill,imagePost,imageChest,imageThana,imageZella,imageEmail,imageBlood);
         }
     }
 
 
-    private void setImage(int imageUrl, String imageName,String imageFaname,String imageDeg,String imagePhone,String imageVill,String imagePost){
+    private void setImage(int imageUrl, String imageName,String imageFaname,String imageDeg,String imagePhone,String imageVill,String imagePost,String imageChest,String imageThana,String imageZella,String imageEmail,String imageBlood){
 
 
+        //self
+        TextView chest = findViewById(R.id.image_chest);
+        chest.setText(imageChest);
+        //self
         TextView name = findViewById(R.id.image_name);
         name.setText(imageName);
 
@@ -65,6 +75,20 @@ public class InfoDetails extends AppCompatActivity {
 
         TextView post = findViewById(R.id.image_post);
         post.setText(imagePost);
+
+        //self
+        TextView thana = findViewById(R.id.image_Thana);
+        thana.setText(imageThana);
+
+        TextView zella = findViewById(R.id.image_Zella);
+        zella.setText(imageZella);
+
+        TextView email = findViewById(R.id.image_Email);
+        email.setText(imageEmail);
+
+        TextView blood = findViewById(R.id.image_Blood);
+        blood.setText(imageBlood);
+        //self
 
         ImageView image = findViewById(R.id.image);
        // image.setImageResource(imageUrl);
