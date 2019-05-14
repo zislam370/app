@@ -21,8 +21,10 @@
         android:layout_height="wrap_content"
         android:id="@+id/fire_text"
         android:text="@string/fire_text"
+        android:textColor="@color/DarkGreen"
         android:layout_marginTop="20dp"
         android:layout_below="@+id/logo"
+        android:textSize="25dp"
         android:layout_centerHorizontal="true"
         />
 
@@ -34,6 +36,8 @@
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/fire_text"
         android:onClick="statBtn"
+        android:textColor="@color/DarkRed"
+        android:textSize="20dp"
         android:text="@string/button_text"/>
 
     <TextView
@@ -64,7 +68,7 @@
             android:layout_marginLeft="5dp"
             android:layout_marginBottom="2dp"
             android:layout_marginTop="2dp"
-            android:src="@drawable/logo" />
+            android:src="@drawable/rafi" />
 
         <TextView
             android:id="@+id/dev_text"
@@ -72,8 +76,14 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/logo"
             android:layout_gravity="center"
+            android:textColor="@color/DarkOrchid"
+            android:textSize="15dp"
             android:layout_marginLeft="5dp"
-            android:text="@string/dev_text" />
+            android:text="@string/dev_text"
+            android:textColorHighlight="@color/colorAccent"/>
+
+
+
 
     </LinearLayout>
 

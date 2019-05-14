@@ -1,16 +1,24 @@
 <resources>
     <string name="app_name">FireInfo</string>
     <string name="fire_text">ফায়ার সাভির্স ও সিভিল ডিফেন্স</string>
-    <string name="button_text">Start</string>
-    <string name="dev_text">Abdur Rahman</string>
-    <string name="pow_text">Powered by </string>
+    <string name="button_text">৪০ তম অফিসার ব্যাচ</string>
+    <string name="dev_text">আব্দুর রহমান </string>
+    <string name="dev_text_phone">01817562144 </string>
+    <string name="pow_text">Develop by </string>
+
+    <string name="list_text">অফিসারগণের নামের তালিকা</string>
+    <string name="organizer_text">যারা সহযোগিতা করেছে </string>
+    <string name="organizer_name_headline_text"> উপদেষ্টামণ্ডলী</string>
+    <string name="organizer_name_1_text">১. এ বি এম ফেরদোস,
+ অধ্যক্ষ, মিরপুর ট্রেইনিং  কমপ্লেক্স , ঢাকা  </string>
+    <string name="organizer_name_2_text">২. বাবুল চক্রবর্তী ,
+ ভাইস প্রিন্সিপাল, মিরপুর ট্রেইনিং  কমপ্লেক্স , ঢাকা  </string>
+    <string name="organizer_name_3_text">৩. আব্দুল আলীম ,
+ এডজুজেন্ট , মিরপুর ট্রেইনিং  কমপ্লেক্স , ঢাকা  </string>
+    <string name="organizer_name_4_text"> ৪. নাজিমুদ্দিন সরকার ,
+ ফিল্ড কমান্ডার , মিরপুর ট্রেইনিং  কমপ্লেক্স , ঢাকা  </string>
 
 
-    <string name="list_text">All list </string>
-    <string name="organizer_text">Organized by</string>
-    <string name="organizer_name_1_text">মোঃ আজিজুর রহমান</string>
-    <string name="user_name_hint">User Name or Email</string>
-    <string name="user_password_hint">Password</string>
-    <string name="login_btn">Sign In</string>
+
 
 </resources>

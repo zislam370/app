@@ -18,6 +18,19 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:id="@+id/image_chest"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Canada"
+        android:textSize="20sp"
+        android:textColor="#000"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:id="@+id/image_name"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp"
@@ -25,6 +38,7 @@
         android:textSize="20sp"
         android:textColor="#000"
         />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -70,6 +84,57 @@
         android:textSize="20sp"
         android:textColor="#000"
         />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/image_Thana"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Canada"
+        android:textSize="20sp"
+        android:textColor="#000"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/image_Zella"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Canada"
+        android:textSize="20sp"
+        android:textColor="#000"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/image_Email"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Canada"
+        android:textSize="20sp"
+        android:textColor="#000"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/image_Blood"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Canada"
+        android:textSize="20sp"
+        android:textColor="#000"
+        />
+
+
+
+
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

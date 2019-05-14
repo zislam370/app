@@ -36,9 +36,16 @@ public class InfoAdapter extends RecyclerView.Adapter<InfoAdapter.ViewHolder>{
     private ArrayList<String> mVills = new ArrayList<>();
     private ArrayList<String> mPosts = new ArrayList<>();
     private ArrayList<String> mPhones = new ArrayList<>();
+    //self
+    private ArrayList<String> mChest = new ArrayList<>();
+    private ArrayList<String> mThana = new ArrayList<>();
+    private ArrayList<String> mZella = new ArrayList<>();
+    private ArrayList<String> memail = new ArrayList<>();
+    private ArrayList<String> mblood = new ArrayList<>();
+
     private Context mContext;
 
-    public InfoAdapter(Context context, ArrayList<String> imageNames, ArrayList<Integer> images, ArrayList<String> imageDegs, ArrayList<String> imageFanames, ArrayList<String> imageVills, ArrayList<String> imagePosts,ArrayList<String> imagePhons) {
+    public InfoAdapter(Context context, ArrayList<String> imageNames, ArrayList<Integer> images, ArrayList<String> imageDegs, ArrayList<String> imageFanames, ArrayList<String> imageVills, ArrayList<String> imagePosts,ArrayList<String> imagePhons,ArrayList<String> imageChest,ArrayList<String> imageThana,ArrayList<String> imageZella,ArrayList<String> imageEmail,ArrayList<String> imageBlood) {
         mImageNames = imageNames;
         mImages = images;
         mDegs = imageDegs;
@@ -47,6 +54,13 @@ public class InfoAdapter extends RecyclerView.Adapter<InfoAdapter.ViewHolder>{
         mPosts = imagePosts;
         mPhones = imagePhons;
         mContext = context;
+        // self
+        mChest = imageChest;
+        mThana = imageThana;
+        mZella = imageZella;
+        memail = imageEmail;
+        mblood = imageBlood;
+
     }
 
 
@@ -76,8 +90,13 @@ public class InfoAdapter extends RecyclerView.Adapter<InfoAdapter.ViewHolder>{
 
 
 
+
+
+
         holder.imageName.setText(mImageNames.get(position));
         Picasso.get().load(mImages.get(position)).into(holder.image);
+        //self
+        //holder.imageChest.setText(mChest.get(position));
         holder.imageDeg.setText(mDegs.get(position));
         holder.imagePhone.setText(mPhones.get(position));
 
@@ -99,6 +118,12 @@ public class InfoAdapter extends RecyclerView.Adapter<InfoAdapter.ViewHolder>{
                 intent.putExtra("image_phone", mPhones.get(position));
                 intent.putExtra("image_vill", mVills.get(position));
                 intent.putExtra("image_post", mPosts.get(position));
+                // self
+                intent.putExtra("image_chest", mChest.get(position));
+                intent.putExtra("image_Thana", mThana.get(position));
+                intent.putExtra("image_Zella", mZella.get(position));
+                intent.putExtra("image_Email", memail.get(position));
+                intent.putExtra("image_Blood", mblood.get(position));
 
                 mContext.startActivity(intent);
             }
@@ -114,13 +139,16 @@ public class InfoAdapter extends RecyclerView.Adapter<InfoAdapter.ViewHolder>{
     public class ViewHolder extends RecyclerView.ViewHolder{
 
         CircleImageView image;
-        TextView imageName,imageDeg,imagePhone;
+        TextView imageName,imageDeg,imagePhone,imageChest;
 
         RelativeLayout parentLayout;
 
         public ViewHolder(View itemView) {
             super(itemView);
             image = itemView.findViewById(R.id.image);
+            //self
+            imageChest = itemView.findViewById(R.id.image_chest);
+
             imageName = itemView.findViewById(R.id.image_name);
             imageDeg = itemView.findViewById(R.id.image_deg);
             imagePhone = itemView.findViewById(R.id.image_phn);
