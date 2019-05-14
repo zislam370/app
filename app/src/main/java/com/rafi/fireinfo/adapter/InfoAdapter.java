@@ -90,6 +90,8 @@ public class InfoAdapter extends RecyclerView.Adapter<InfoAdapter.ViewHolder>{
 
 
 
+
+
         holder.imageName.setText(mImageNames.get(position));
         Picasso.get().load(mImages.get(position)).into(holder.image);
         //self
