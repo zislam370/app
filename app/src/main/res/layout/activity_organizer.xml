@@ -29,40 +29,10 @@
         android:textColor="@color/BlueViolet"
         android:textSize="25sp" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginLeft="25dp"
-        android:layout_marginTop="20dp"
-        android:layout_marginRight="20dp"
-        android:padding="10dp"
-        android:text="@string/organizer_name_2_text"
-        android:textColor="@color/LightSkyBlue"
-        android:textSize="25sp" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginLeft="25dp"
-        android:layout_marginTop="20dp"
-        android:layout_marginRight="20dp"
-        android:padding="10dp"
-        android:text="@string/organizer_name_3_text"
-        android:textColor="@color/MediumSlateBlue"
-        android:textSize="25sp" />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginLeft="25dp"
-        android:layout_marginTop="20dp"
-        android:layout_marginRight="20dp"
-        android:padding="10dp"
-        android:text="@string/organizer_name_4_text"
-        android:textColor="@color/colorPrimaryDark"
-        android:textSize="25sp" />
+
+
+
 
 
 

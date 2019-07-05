@@ -29,14 +29,14 @@ public class Login extends AppCompatActivity {
         user = userEditText.getText().toString();
         password = passwordEditText.getText().toString();
 
-        if(user.equals("admin") && password.equals("1234567")){
+        if(user.equals("stationofficer") && password.equals("officer")){
 
             Intent checkupHome = new Intent(this,MainActivity.class);
             startActivity(checkupHome);
 
         }else {
 
-            Toast.makeText(this, "Invalid User Name or Password", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Invalid User Name or Password please contract with SO. Abdur Rahman", Toast.LENGTH_LONG).show();
         }
 
     }
