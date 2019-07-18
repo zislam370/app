@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FireInfo</string>
+    <string name="app_name">officer 40th batch</string>
     <string name="fire_text">ফায়ার সাভির্স ও সিভিল ডিফেন্স</string>
     <string name="button_text">৪০ তম অফিসার ব্যাচ</string>
     <string name="dev_text">আব্দুর রহমান </string>
@@ -15,7 +15,7 @@
 
 
 
-    <string name="login_btn">Sign In</string>
+    <string name="login_btn">Login</string>
     <string name="user_name_hint">User ID</string>
     <string name="user_password_hint">Password</string>
 

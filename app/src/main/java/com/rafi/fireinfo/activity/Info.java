@@ -719,8 +719,8 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest45);
         mChest.add("বক্ষনং-৪৫");
         mNames.add("আহমেদুল কবির");
-        mDegs.add("স্টেশনঅফিসার");
-        mFaNames.add("পিতারনামঃমোঃসুলতান উদ্দিন");
+        mDegs.add("স্টেশন অফিসার");
+        mFaNames.add("পিতার নামঃ মোঃসুলতান উদ্দিন");
         mVills.add("গ্রামঃবীররামপুর");
         mPosts.add("ডাকঘরঃগফাকুড়িবাজার");
         mThana.add("থানা/উপজেলাঃত্রিশাল");
@@ -1164,7 +1164,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃকানফরদী");
         mThana.add("থানা/উপজেলাঃনগরকান্দা");
         mZella.add("জেলাঃফরিদপুর");
-        memail.add("ই-মেইলনং-রংষধসৎ৯১১৮৫@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃO+");
         mPHones.add("মোবাইলনং-০১৭২৩-৯৬২২০০/০১৫৫১৬১৪৫৪০");
 
@@ -1180,7 +1180,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃবাকিগঞ্জ");
         mThana.add("থানা/উপজেলাঃকোতয়ালী");
         mZella.add("জেলাঃফরিদপুর");
-        memail.add("ই-মেইলনং-ংযবরশযলধভধৎ৪৯০@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃA+");
         mPHones.add("মোবাইলনং-০১৭২৬-৪০৪২৬৭");
 
@@ -1196,7 +1196,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃবি-কয়া");
         mThana.add("থানা/উপজেলাঃকালুখালী");
         mZella.add("জেলাঃরাজবাড়ী");
-        memail.add("ই-মেইলনং-যধংংধহ.সবযবফর১৯৭১@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃB+");
         mPHones.add("মোবাইলনং-০১৯১৫-৯৬৮৪০৭");
 
@@ -1211,7 +1211,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃহাটবনগ্রাম");
         mThana.add("থানা/উপজেলাঃপাংশা");
         mZella.add("জেলাঃরাজবাড়ী");
-        memail.add("ই-মেইলনং-নরলড়হনরংধিং@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃB+");
         mPHones.add("মোবাইলনং-০১৯৬২-৩৯০৪৪০");
 
@@ -1227,7 +1227,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃহলুদবাড়ীয়া");
         mThana.add("থানা/উপজেলাঃপাংশা");
         mZella.add("জেলাঃরাজবাড়ী");
-        memail.add("ই-মেইলনং-ধনুঁধভড়ৎ.ভংপফ@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃB+");
         mPHones.add("মোবাইলনং-০১৭১১-৪২৮৬৬১");
 
@@ -1243,7 +1243,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃনিঝামকান্দী");
         mThana.add("থানা/উপজেলাঃকাশিয়ানী");
         mZella.add("জেলাঃগোপালগঞ্জ");
-        memail.add("ই-মেইলনং-সযশনধঢ়ঢ়ু৫০@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃA+");
         mPHones.add("মোবাইলনং-০১৭৫৭-৪৪৩৮৯৯");
 
@@ -1252,7 +1252,7 @@ public class Info extends AppCompatActivity {
 
         mImageUrls.add(R.drawable.chest79);
         mChest.add("বক্ষ নং-৭৯");
-        mNames.add("শরীফআমিনুলইসলাম");
+        mNames.add("শরীফ আমিনুল ইসলাম");
         mDegs.add("স্টেশন অফিসার");
         mFaNames.add("পিতার নামঃ শরীফরেজাউল হক");
         mVills.add("গ্রামঃগোপীনাথপুর");
@@ -1275,7 +1275,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃচন্দ্রদিঘলিয়া");
         mThana.add("থানা/উপজেলাঃগোপালগঞ্জসদর");
         mZella.add("জেলাঃগোপালগঞ্জ");
-        memail.add("ই-মেইলনং-ধনফঁৎ২৬০০@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃO+");
         mPHones.add("মোবাইলনং-০১৯১১-১১৯১৬৭");
 
@@ -1307,7 +1307,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃখাগাইলবাজার");
         mThana.add("থানা/উপজেলাঃকোম্পানীগঞ্জ");
         mZella.add("জেলাঃসিলেট");
-        memail.add("ই-মেইলনং-ৎধুযধহংুষ১৩@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃB+");
         mPHones.add("মোবাইলনং-০১৭৪২-৮৭৩৩৭৫");
 
@@ -1323,7 +1323,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃপঞ্চাশ");
         mThana.add("থানা/উপজেলাঃচুনারুঘাট");
         mZella.add("জেলাঃহবিগঞ্জ");
-        memail.add("ই-মেইলনং-ংঃ.ৎধযঁষ১০@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-ংঃ");
         mblood.add("রক্তেরগ্রুপঃB+");
         mPHones.add("মোবাইলনং-০১৬৭২-২৭৭০৩৫");
 
@@ -1337,7 +1337,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃনবীগঞ্জ");
         mThana.add("থানা/উপজেলাঃনবীগঞ্জ");
         mZella.add("জেলাঃহবিগঞ্জ");
-        memail.add("ই-মেইলনং-হবঃিড়হসঁহহধ৮৯@ুধযড়ড়.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃO+");
         mPHones.add("মোবাইলনং-০১৭১২-৩০২৩৩৮");
 
@@ -1363,7 +1363,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.rafi2);
         mChest.add("বক্ষনং-৮৬");
         mNames.add("জামিম");
-        mDegs.add("স্টেশনঅফিসার");
+        mDegs.add("স্টেশন অফিসার");
         mFaNames.add("পিতারনামঃআঃঅদুদ");
         mVills.add("গ্রামঃকদমতলী");
         mPosts.add("ডাকঘরঃসোনারামপুর");
@@ -1400,7 +1400,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃসালদানদী");
         mThana.add("থানা/উপজেলাঃব্রাক্ষনপাড়া");
         mZella.add("জেলাঃকুমিল্লা");
-        memail.add("ই-মেইলনং-ংধরভঁষযধংধহ৭০২@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃB+");
         mPHones.add("মোবাইলনং-০১৭৯৭-১২৫৬৬৭");
 
@@ -1416,7 +1416,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃছেংগারচরবাজার");
         mThana.add("থানা/উপজেলাঃমতলবউত্তর");
         mZella.add("জেলাঃচাঁদপুর");
-        memail.add("ই-মেইলনং-ৎধুযধহ.হবংি২৪@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃA+");
         mPHones.add("মোবাইলনং-০১৭৩৬-৯৮৩৩৯২");
 
@@ -1448,7 +1448,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃধলিয়াবাজার");
         mThana.add("থানা/উপজেলাঃফেনীসদর");
         mZella.add("জেলাঃফেনী");
-        memail.add("ই-মেইলনং-ষরঃড়হ.ঃরঃঁসরৎ@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃAB+");
         mPHones.add("মোবাইলনং-০১৭১১-০৭৯৪৪৭");
 
@@ -1464,7 +1464,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃসুলতাননগর");
         mThana.add("থানা/উপজেলাঃহাটহাজারী");
         mZella.add("জেলাঃচট্টগ্রাম");
-        memail.add("ই-মেইলনং-পঃমলধযবফ৩৬@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃB+");
         mPHones.add("মোবাইলনং-০১৮১৬-৪৩৯৮৩৬");
 
@@ -1480,7 +1480,7 @@ public class Info extends AppCompatActivity {
         mPosts.add("ডাকঘরঃবাঁশবাড়ীয়া");
         mThana.add("থানা/উপজেলাঃসীতাকুন্ড");
         mZella.add("জেলাঃচট্টগ্রাম");
-        memail.add("ই-মেইলনং-সঁশঁষহধঃয৪০@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃB+");
         mPHones.add("মোবাইলনং-০১৮৪০-৪৪৫৬৬৩/০১৮৫৫-৬৩৯৬৯৫");
 
@@ -1498,7 +1498,7 @@ public class Info extends AppCompatActivity {
         mZella.add("জেলাঃরাঙ্গামাটি");
         memail.add("ই-মেইলনং- ");
         mblood.add("রক্তেরগ্রুপঃO+");
-        mPHones.add("মোবাইলনং-০১৮১৪-২৬১১৪৯");
+        mPHones.add("মোবাইলনং-০১৮১৪২৬১১৪৯");
 
 
 
@@ -1506,27 +1506,27 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest1s);
         mChest.add("বক্ষ নং-০১");
         mNames.add("মোঃ জাহাঙ্গীর আলম সরকার");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃমৃতসামসুলহকসরকার");
         mVills.add("গ্রামঃউত্তরআরাজীচড়াইখোলা");
         mPosts.add("ডাকঘরঃদারোয়ানীসুতাকল");
         mThana.add("থানা/উপজেলাঃনীলফামারীসদর");
         mZella.add("জেলাঃনীলফামারী");
-        memail.add("ই-মেইলনং-লধযধহমরৎ.ঁবঢ়ু@ুধযড়ড়.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃB+");
         mPHones.add("মোবাইলনং-০১৭৩৩-২৯১২৭২");
 
 
         mImageUrls.add(R.drawable.chest2s);
         mChest.add("বক্ষ নং-০২");
-        mNames.add("মোঃরোকনুজ্জামান (রোমান)");
-        mDegs.add("স্টফ অফিসার");
+        mNames.add("মোঃ রোকনুজ্জামান রোমান");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃমোঃআঃরাজ্জাক");
         mVills.add("গ্রামঃবুঃকোমরপুর");
         mPosts.add("ডাকঘরঃবালারহাট");
         mThana.add("থানা/উপজেলাঃমিঠাপুকুর");
         mZella.add("জেলাঃরংপুর");
-        memail.add("ই-মেইলনং-সফৎড়সধহ৯২৯২@ুধযড়ড়.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃB+");
         mPHones.add("মোবাইলনং-০১৭২৩-৮৪৫২৭৪");
 
@@ -1535,13 +1535,13 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest03s);
         mChest.add("বক্ষ নং-০৩");
         mNames.add("মোঃরাশেদুর রহমান");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃমোঃফজলুলকরিমসরকার");
         mVills.add("গ্রামঃদীঘাপাড়া");
         mPosts.add("ডাকঘরঃহাটশেরপুর");
         mThana.add("থানা/উপজেলাঃসারিয়াকান্দী");
         mZella.add("জেলাঃবগুড়া");
-        memail.add("ই-মেইলনং-ৎধংযবফংধৎশবৎ৮৯@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃAB+");
         mPHones.add("মোবাইলনং-০১৭৩৭-১৫৩৯৫১/০১৯১৮-১৫১৭০৯");
 
@@ -1550,13 +1550,13 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest15s);
         mChest.add("বক্ষ নং-০৪");
         mNames.add("মোঃওয়ালিফ হোসেন");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতার নামঃ মোঃ তোফাজ্জেল হোসেন");
         mVills.add("গ্রামঃশ্যামপুর");
         mPosts.add("ডাকঘরঃদুর্বাচারা");
         mThana.add("থানা/উপজেলাঃকুষ্টিয়াসদর");
         mZella.add("জেলাঃকুষ্টিয়া");
-        memail.add("ই-মেইলনং-ধিষরভযড়ংংধরহ৮৬৬৮@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃO+");
         mPHones.add("মোবাইলনং-০১৭৩৯-৩৮৮৬৬৮");
 
@@ -1567,22 +1567,22 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest5s);
         mChest.add("বক্ষ নং-০৫");
         mNames.add("মোঃশিমুল রানা");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃমোঃতহিদুলইসলাম");
         mVills.add("গ্রামঃমোল্লাতেঘরিয়া");
         mPosts.add("ডাকঘরঃকুষ্টিয়া");
         mThana.add("থানা/উপজেলাঃকুষ্টিয়াসদর");
         mZella.add("জেলাঃকুষ্টিয়া");
-        memail.add("ই-মেইলনং-ংযরসঁষৎধহধ২৯@মসধরষ.পড়স");
+        memail.add("ই-মেইলনং-");
         mblood.add("রক্তেরগ্রুপঃAB+");
         mPHones.add("মোবাইলনং-০১৭৪৯-০৬৪৫০৩");
 
 
 
         mImageUrls.add(R.drawable.rafi2);
-        mChest.add("বক্ষনং-০৬");
+        mChest.add("বক্ষ নং-০৬");
         mNames.add("রেজওয়ান আহম্মেদ");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃমোঃমহিউদ্দিন");
         mVills.add("গ্রামঃগাংনী");
         mPosts.add("ডাকঘরঃগাংনী");
@@ -1597,7 +1597,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.rafi2);
         mChest.add("বক্ষনং-০৭");
         mNames.add("শামীম রেজা");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃমৃতরুস্তমআলীমালিতা");
         mVills.add("গ্রামঃআড়পাড়া");
         mPosts.add("ডাকঘরঃরতনহাট");
@@ -1611,9 +1611,9 @@ public class Info extends AppCompatActivity {
 
 
         mImageUrls.add(R.drawable.rafi2);
-        mChest.add("বক্ষনং-০৮");
+        mChest.add("বক্ষ নং-০৮");
         mNames.add("মোঃ গোলাম কিবরিয়া");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃমৃতশমসেরআলী");
         mVills.add("গ্রামঃকৃষ্ণনগরপাড়া");
         mPosts.add("ডাকঘরঃঝিনাইদাহ");
@@ -1629,7 +1629,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest10s);
         mChest.add("বক্ষ নং-১০");
         mNames.add("মোঃরয়েল আহমেদ");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃমোঃআকমতআলী");
         mVills.add("গ্রামঃদাইতলা");
         mPosts.add("ডাকঘরঃফাতপুর");
@@ -1644,7 +1644,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest11s);
         mChest.add("বক্ষ নং-১১");
         mNames.add("জান্নাতুল ফেরদাউস");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতার নামঃ মোঃআবুলকালাম");
         mVills.add("গ্রামঃমনিরামপুর");
         mPosts.add("ডাকঘরঃমনিরামপুর");
@@ -1659,7 +1659,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.rafi2);
         mChest.add("বক্ষনং-১২");
         mNames.add("শেখ মামুনুর রশিদ");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃশেখমাহবুবউলআলম");
         mVills.add("গ্রামঃপাটাকেলঘাটা");
         mPosts.add("ডাকঘরঃপাটাকেলঘাটা");
@@ -1672,10 +1672,10 @@ public class Info extends AppCompatActivity {
 
 
 
-        mImageUrls.add(R.drawable.rafi2);
-        mChest.add("বক্ষনং-১৩");
-        mNames.add("মোঃহাবিজুর রহমান");
-        mDegs.add("স্টফ অফিসার");
+        mImageUrls.add(R.drawable.chest13st);
+        mChest.add("বক্ষ নং-১৩");
+        mNames.add("মোঃ হাবিজুর রহমান");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃমৃতফজলুলহক");
         mVills.add("গ্রামঃবালিয়ামারী");
         mPosts.add("ডাকঘরঃডিগ্রীরচর");
@@ -1691,7 +1691,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest14s);
         mChest.add("বক্ষ নং-১৪");
         mNames.add("এ. এস.এম.মহসিন (অনিক)");
-        mDegs.add("স্টফঅফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃমোঃআমিনুলইসলাম");
         mVills.add("গ্রামঃমিয়াপাড়া");
         mPosts.add("ডাকঘরঃবকসীগঞ্জ");
@@ -1706,7 +1706,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest15s);
         mChest.add("বক্ষ নং-১৫");
         mNames.add("সৈয়দ মোহাম্মদ সুজন");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃগোলামমোস্তফা");
         mVills.add("গ্রামঃঝালরচরপশ্চিমপাড়া");
         mPosts.add("ডাকঘরঃজব্বারগঞ্জ");
@@ -1721,7 +1721,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest16s);
         mChest.add("বক্ষনং-১৬");
         mNames.add("রোজীনা আক্তার");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃআজাহারউদ্দিন");
         mVills.add("গ্রামঃকরজনা");
         mPosts.add("ডাকঘরঃবড়টিয়া");
@@ -1737,7 +1737,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest17s);
         mChest.add("বক্ষনং-১৭");
         mNames.add("রাজু আহমেদ");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃমোঃআব্দুলমজিদ");
         mVills.add("গ্রামঃবাউখওধানকোড়া");
         mPosts.add("ডাকঘরঃসাটুরিয়া");
@@ -1753,7 +1753,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest18s);
         mChest.add("বক্ষনং-১৮");
         mNames.add("রহিদুর রহমান মৃর্ধা");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃআতিকুররহমানমৃর্ধা");
         mVills.add("গ্রামঃ১০৬/৬, এ, মনিপুড়ীপাড়া");
         mPosts.add("ডাকঘরঃতেজগাঁও");
@@ -1768,7 +1768,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest19s);
         mChest.add("বক্ষনং-১৯");
         mNames.add("জেরি জ্যাক রোজারিও");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃইগ্নেশিউমরোজারিও");
         mVills.add("গ্রামঃ১০৫/১২/এ, মনিপুড়ীপাড়া");
         mPosts.add("ডাকঘরঃতেজগাঁও");
@@ -1783,7 +1783,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.rafi2);
         mChest.add("বক্ষনং-২০");
         mNames.add("সাইদুল ইসলাম");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃআব্দুলমজিদ");
         mVills.add("গ্রামঃগওগাঁও");
         mPosts.add("ডাকঘরঃগওগাঁওবাজার");
@@ -1799,7 +1799,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest21s);
         mChest.add("বক্ষনং-২১");
         mNames.add("সুজন কুমার হালদার");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতারনামঃঅজিতকুমারহালদার");
         mVills.add("গ্রামঃপারনারায়নপুর");
         mPosts.add("ডাকঘরঃপাংশা");
@@ -1815,7 +1815,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest22s);
         mChest.add("বক্ষনং-২২");
         mNames.add("উদ্দিপন ভক্ত");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতার নামঃ হাতিন্দ্রনাথভক্ত");
         mVills.add("গ্রামঃ চৌরাশী");
         mPosts.add("ডাকঘরঃ বাজিতপুর");
@@ -1830,7 +1830,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest23s);
         mChest.add("বক্ষনং-২৩");
         mNames.add("মনোতোষ মল্লিক");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতার নামঃ অসিমম ল্লিক");
         mVills.add("গ্রামঃ রূপাপুর");
         mPosts.add("ডাকঘরঃ সোনাপুর");
@@ -1845,7 +1845,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest24s);
         mChest.add("বক্ষনং-২৪");
         mNames.add("রাহুল দেব নাথ");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতার নামঃ সুভাষ চন্দ্র দেবনাথ");
         mVills.add("গ্রামঃ তেঁতৈয়া");
         mPosts.add("ডাকঘরঃ মাধবসিংহ");
@@ -1861,7 +1861,7 @@ public class Info extends AppCompatActivity {
         mImageUrls.add(R.drawable.chest25s);
         mChest.add("বক্ষনং- ২৫");
         mNames.add("মোঃ ইসমাইল হোসেন");
-        mDegs.add("স্টফ অফিসার");
+        mDegs.add("স্টাফ অফিসার");
         mFaNames.add("পিতার নামঃ মৃতসিরাজুল ইসলাম");
         mVills.add("গ্রামঃ কামার পুকুরিয়া");
         mPosts.add("ডাকঘরঃ রাজাপুর");
@@ -1890,7 +1890,7 @@ public class Info extends AppCompatActivity {
 
 
         mImageUrls.add(R.drawable.rafi2);
-        mChest.add("বক্ষনং- ");
+        mChest.add("বক্ষ নং- ");
         mNames.add("সেন্টু চন্দ্র সেন");
         mDegs.add("ফিজিক্যাল ইন্সট্রাক্টর");
         mFaNames.add("পিতার নামঃ গৌরাঙ্গচন্দ্রসেন");
@@ -1906,7 +1906,7 @@ public class Info extends AppCompatActivity {
 
 
         mImageUrls.add(R.drawable.rafi2);
-        mChest.add("বক্ষনং- ");
+        mChest.add("বক্ষ নং- ");
         mNames.add("তৌহিদুল ইসলাম");
         mDegs.add("ফিজিক্যাল ইন্সট্রাক্টর");
         mFaNames.add("পিতার নামঃ সামছউদ্দিন");

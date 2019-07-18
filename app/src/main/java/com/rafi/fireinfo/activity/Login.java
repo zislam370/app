@@ -36,7 +36,7 @@ public class Login extends AppCompatActivity {
 
         }else {
 
-            Toast.makeText(this, "Invalid User Name or Password please contract with SO. Abdur Rahman", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Invalid User Name or Password please contract with SO Abdur Rahman", Toast.LENGTH_LONG).show();
         }
 
     }
